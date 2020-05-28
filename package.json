@@ -3,11 +3,11 @@
   "version": "4.13.0",
   "description": "Setup a local development environment for Google Apps Script",
   "author": {
-    "name": "Amit Agarwal",
-    "email": "amit@labnol.org",
-    "url": "https://www.labnol.org"
+    "name": "Anand Moram",
+    "email": "anand.moram@delhivery.com",
+    "url": "https://www.delhivery.com"
   },
-  "homepage": "https://digitalinspiration.com/",
+  "homepage": "https://delhivery.com/",
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/labnol/apps-script-starter.git"
+    "url": "git+https://github.com/AnandMoram/apps-script-starter-1.git"
   },
   "keywords": [
     "google-apps-script",
